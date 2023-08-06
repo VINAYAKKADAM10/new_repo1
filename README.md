@@ -1,2 +1,2 @@
-# new_repo1 
+# remote_repo
 `this is the remotely created`
